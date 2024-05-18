@@ -1,0 +1,17 @@
+{
+  "name": "rusticflow-icons",
+  "version": "0.2.4",
+  "description": "Icons through the power of feather",
+  "main": "index.js",
+  "scripts": {
+    "dev": "grass scss/rusticflow-icons.scss >> css/rusticflow-icons.css && rusticflow minify css/rusticflow-icons.css >> css/rusticflow-icons.min.css"
+  },
+  "keywords": [
+    "icons",
+    "css",
+    "grass",
+    "rusticflow"
+  ],
+  "author": "iamvictormwangi",
+  "license": "MIT"
+}
