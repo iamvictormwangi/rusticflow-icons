@@ -1,6 +1,6 @@
 {
   "name": "rusticflow-icons",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Icons through the power of feather",
   "main": "index.js",
   "scripts": {

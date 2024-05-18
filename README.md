@@ -51,7 +51,7 @@ Usage with jsdelivr
 
 ```
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rusticflow-icons@0.2.4/css/rusticflow-icons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rusticflow-icons@0.2.6/css/rusticflow-icons.min.css">
 
 ```
 
