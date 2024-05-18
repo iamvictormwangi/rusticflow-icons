@@ -15,6 +15,26 @@
     filter: brightness(0) saturate(100%);
   }
 
+  &.extrasmall {
+    scale: .575;
+  }
+
+  &.small {
+    scale: .775;
+  }
+
+  &.medium {
+    scale: 1;
+  }
+
+  &.large {
+    scale: 1.455;
+  }
+
+  &.extralarge {
+    scale: 1.85;
+  }
+
   &.feather {
 
     @each $icon in $icons {
